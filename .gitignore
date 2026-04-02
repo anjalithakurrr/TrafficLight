@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.mp4
+*.avi
+runs/
+tb_logs/
+.DS_Store
